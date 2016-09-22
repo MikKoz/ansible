@@ -56,6 +56,6 @@
      sudo: false
 
   vars:
-    admin_user: heros-ingeneros
-    deploy_user: ruby
+    admin_user: admin-user-name
+    deploy_user: deploy-user-name
     
